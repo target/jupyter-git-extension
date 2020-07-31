@@ -1,0 +1,6 @@
+Type: Jupyter Notebook Extension
+Main: notebook.js
+Compatibility: 5.x, 6.x
+Name: Jupyter Git Extension - Notebook
+Section: notebook
+Description: Allows you save, commit, and push a notebook with one click

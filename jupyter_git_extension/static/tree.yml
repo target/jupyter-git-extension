@@ -1,0 +1,6 @@
+Type: Jupyter Notebook Extension
+Main: tree.js
+Compatibility: 5.x, 6.x
+Name: Jupyter Git Extension - Tree
+Section: tree
+Description: Adds git functionality to the Jupyter file browser

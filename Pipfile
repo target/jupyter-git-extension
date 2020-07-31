@@ -1,0 +1,15 @@
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
+black = "==19.3b0"
+gitpython = "*"
+mock = "*"
+
+[packages]
+psutil = "*"
+notebook = "*"
+gitpython = "*"
+tornado = "*"
+
+[requires]
+python_version = "3"
